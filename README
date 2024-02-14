@@ -1,0 +1,3 @@
+Code along practice from the first chapter of this youtube video: https://youtu.be/GFO_txvwK_c
+
+I altered line 80-82 in this code to prevent the gameFrame variable from growing inifinately. The addition of a ternary operation will reset the value to 0 after each loop cycle.
