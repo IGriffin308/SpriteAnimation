@@ -1,3 +1,6 @@
 Code along practice from the first chapter of this youtube video: https://youtu.be/GFO_txvwK_c
 
-I altered line 80-82 in this code to prevent the gameFrame variable from growing inifinately. The addition of a ternary operation will reset the value to 0 after each loop cycle.
+I have altered line 80-82 in this code to prevent the gameFrame variable from growing inifinately. The addition of a ternary operation will reset the value to 0 after each loop cycle.
+
+
+To run this code, simple keep all files in the same directory and launch the HTML file natively in your browser using standard file protocol
